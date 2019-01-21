@@ -1,5 +1,5 @@
 ## .gitconfig示例
 
-cache
+## cache
 
 虫虫
